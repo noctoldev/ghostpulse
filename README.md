@@ -27,3 +27,4 @@
 - **`base64`**: Encoding ciphertext.
 - ---
 note: this has not been tested, fairly sure it works but needs recieving script which can be made in python. 1 detection on vt as of feb24th.
+compiled with cargo build --release --target x86_64-pc-windows-gnu
